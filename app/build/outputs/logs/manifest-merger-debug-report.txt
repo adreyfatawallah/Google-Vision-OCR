@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\59b1b6819b813df2f8bbd5d2b3836d5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\414b313cdef95e22ac8cd8d0308d526f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\b9f8c24a4f197f52f5c2313b42f5d136\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\6e045f2ac8507f48bb0b240c224c49d5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\0a32864eba171bdbac284e28035afcea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\5906d299c17c13d5d14f6127c12b909e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\654978ae30422ce03fb149228325a89b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\dbb503c08e6052bebfc8d42ff1a5a724\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a54b178d49d6032b2f27be9be44745a6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\70f4ee11a21dc8bfef652a0c406c0b6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\966a6bc731fd5e5df9cf508bea347ae4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9c2ac825ea47ebd592e1a59080948b9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\146c9c46b5e54bcc7b83c37e8783a321\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\57b877125fb351185cf618802c14e3d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\26db68875b0358bfcd6b32632957eddd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e7ddffbf94bdc5105d656c9c272827b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\30e17d25bf87ac49798e1ce328f8cf03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9e0a16a3e5ff2172b2eef5c1f59c708c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dd4cec8dcb284fe060d32619fb5ec0ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e93e80e357b668239982a739b679b111\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6027d45c99a798c48a87133cc54fa94a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e473dc2cdc75483825be4d730e746af9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1b4717dc850e8bc233ac6e4a197fe328\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c70fe4f44e2cbb100544d39af4f5d4f4\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\414b313cdef95e22ac8cd8d0308d526f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\414b313cdef95e22ac8cd8d0308d526f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\b9f8c24a4f197f52f5c2313b42f5d136\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\b9f8c24a4f197f52f5c2313b42f5d136\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\6e045f2ac8507f48bb0b240c224c49d5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\6e045f2ac8507f48bb0b240c224c49d5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\5906d299c17c13d5d14f6127c12b909e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\5906d299c17c13d5d14f6127c12b909e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\654978ae30422ce03fb149228325a89b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\654978ae30422ce03fb149228325a89b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\dbb503c08e6052bebfc8d42ff1a5a724\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\dbb503c08e6052bebfc8d42ff1a5a724\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a54b178d49d6032b2f27be9be44745a6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a54b178d49d6032b2f27be9be44745a6\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:15:9-37
+	android:label
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:14:9-37
+	android:hardwareAccelerated
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:12:9-43
+	android:fullBackupContent
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:11:9-42
+	android:icon
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:13:9-38
+	android:allowBackup
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:16:9-47
+meta-data#com.google.android.gms.version
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:17:9-19:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a54b178d49d6032b2f27be9be44745a6\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a54b178d49d6032b2f27be9be44745a6\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:18:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:20:9-22:35
+	android:value
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:22:13-32
+	android:name
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:21:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:label
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:25:13-38
+	android:name
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:24:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.ResultActivity
+ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:31:9-51
+	android:name
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml:31:19-49
+uses-sdk
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\59b1b6819b813df2f8bbd5d2b3836d5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\59b1b6819b813df2f8bbd5d2b3836d5b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\414b313cdef95e22ac8cd8d0308d526f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\414b313cdef95e22ac8cd8d0308d526f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\b9f8c24a4f197f52f5c2313b42f5d136\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\b9f8c24a4f197f52f5c2313b42f5d136\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\6e045f2ac8507f48bb0b240c224c49d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\6e045f2ac8507f48bb0b240c224c49d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\0a32864eba171bdbac284e28035afcea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\0a32864eba171bdbac284e28035afcea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\5906d299c17c13d5d14f6127c12b909e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\5906d299c17c13d5d14f6127c12b909e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\654978ae30422ce03fb149228325a89b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\654978ae30422ce03fb149228325a89b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\dbb503c08e6052bebfc8d42ff1a5a724\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\dbb503c08e6052bebfc8d42ff1a5a724\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a54b178d49d6032b2f27be9be44745a6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a54b178d49d6032b2f27be9be44745a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\70f4ee11a21dc8bfef652a0c406c0b6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\70f4ee11a21dc8bfef652a0c406c0b6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\966a6bc731fd5e5df9cf508bea347ae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\966a6bc731fd5e5df9cf508bea347ae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9c2ac825ea47ebd592e1a59080948b9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9c2ac825ea47ebd592e1a59080948b9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\146c9c46b5e54bcc7b83c37e8783a321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\146c9c46b5e54bcc7b83c37e8783a321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\57b877125fb351185cf618802c14e3d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\57b877125fb351185cf618802c14e3d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\26db68875b0358bfcd6b32632957eddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\26db68875b0358bfcd6b32632957eddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e7ddffbf94bdc5105d656c9c272827b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e7ddffbf94bdc5105d656c9c272827b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\30e17d25bf87ac49798e1ce328f8cf03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\30e17d25bf87ac49798e1ce328f8cf03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9e0a16a3e5ff2172b2eef5c1f59c708c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9e0a16a3e5ff2172b2eef5c1f59c708c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dd4cec8dcb284fe060d32619fb5ec0ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\dd4cec8dcb284fe060d32619fb5ec0ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e93e80e357b668239982a739b679b111\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e93e80e357b668239982a739b679b111\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6027d45c99a798c48a87133cc54fa94a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6027d45c99a798c48a87133cc54fa94a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e473dc2cdc75483825be4d730e746af9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e473dc2cdc75483825be4d730e746af9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1b4717dc850e8bc233ac6e4a197fe328\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1b4717dc850e8bc233ac6e4a197fe328\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c70fe4f44e2cbb100544d39af4f5d4f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c70fe4f44e2cbb100544d39af4f5d4f4\AndroidManifest.xml:20:5-44
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Github Repository\Google-Vision-OCR\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\654978ae30422ce03fb149228325a89b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\654978ae30422ce03fb149228325a89b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\654978ae30422ce03fb149228325a89b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muh Adrey Fatawallah.DESKTOP-TV6GHKE\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\654978ae30422ce03fb149228325a89b\AndroidManifest.xml:24:13-79

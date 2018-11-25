@@ -1,0 +1,4 @@
+#Sun Nov 25 23:18:51 ICT 2018
+base.0=D\:\\Project\\Github Repository\\Google-Vision-OCR\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
